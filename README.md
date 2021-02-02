@@ -23,6 +23,6 @@ doesn't exist return -1.
 Expected Time Complexity : O(m) <br />
 Expected Auxilliary Space : O(1)
 
-Constraints:
+Constraints: <br />
 1 <= a <= 10**4 <br />
 1 <= m <= 10**4
