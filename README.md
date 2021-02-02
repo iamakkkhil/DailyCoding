@@ -10,7 +10,7 @@ Expected Time Complexity : O(N1/2 * N1/4) <br />
 Expected Auxilliary Space :  O(1)
 
 Constraints :
-1 <= N <= 10**9
+1 <= N <= 10<sup>9</sup>
 
 
 ## DAY 2:
