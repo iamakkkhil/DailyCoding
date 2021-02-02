@@ -24,5 +24,5 @@ Expected Time Complexity : O(m) <br />
 Expected Auxilliary Space : O(1)
 
 Constraints: <br />
-1 <= a <= 10**4 <br />
-1 <= m <= 10**4
+1 <= a <= 10<sup>4</sup> <br />
+1 <= m <= 10<sup>4</sup>
