@@ -6,7 +6,7 @@ https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 QUESTION : Given a number N, print all numbers in the range from 1 to N having 
 exactly 3 divisors.
 
-Expected Time Complexity : O(N1/2 * N1/4)
+Expected Time Complexity : O(N1/2 * N1/4) <br />
 Expected Auxilliary Space :  O(1)
 
 Constraints :
