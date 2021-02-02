@@ -12,7 +12,7 @@ Expected Auxilliary Space :  O(1)
 Constraints :
 1 <= N <= 10<sup>9</sup>
 
-My Solution [here](https://github.com/iamakkkhil/DailyCoding/commit/087305f3415b535819f86cde4793c76f703aa5f9)
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_1.py)
 
 
 ## DAY 2:
@@ -29,4 +29,4 @@ Constraints: <br />
 1 <= a <= 10<sup>4</sup> <br />
 1 <= m <= 10<sup>4</sup>
 
-My Solution [here](https://github.com/iamakkkhil/DailyCoding/commit/087305f3415b535819f86cde4793c76f703aa5f9)
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_2.py)
