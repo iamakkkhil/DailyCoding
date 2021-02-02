@@ -3,7 +3,7 @@
 ## DAY 1:
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
-QUESTION : Given a number N, print all numbers in the range from 1 to N having 
+**QUESTION** : Given a number N, print all numbers in the range from 1 to N having 
 exactly 3 divisors.
 
 Expected Time Complexity : O(N1/2 * N1/4) <br />
@@ -16,7 +16,7 @@ Constraints :
 ## DAY 2:
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
-QUESTION : Given two integers ‘a’ and ‘m’. The task is to find the smallest modular 
+**QUESTION** : Given two integers ‘a’ and ‘m’. The task is to find the smallest modular 
 multiplicative inverse of ‘a’ under modulo ‘m’. If the modular multiplicative inverse 
 doesn't exist return -1.
 
