@@ -1,6 +1,6 @@
 # DailyCoding
 
-## DAY 1:
+## DAY 1: Exactly 3 Divisors
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
 **QUESTION** : Given a number N, print all numbers in the range from 1 to N having 
@@ -15,7 +15,8 @@ Constraints :
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_1.py)
 
 
-## DAY 2: 
+
+## DAY 2: Modular Multiplicative Inverse
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 **QUESTION** : Given two integers ‘a’ and ‘m’. The task is to find the smallest modular 
@@ -30,6 +31,7 @@ Constraints: <br />
 1 <= m <= 10<sup>4</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_2.py)
+
 
 
 ## DAY 3: First Repeating Element
