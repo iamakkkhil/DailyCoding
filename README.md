@@ -15,7 +15,7 @@ Constraints :
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_1.py)
 
 
-## DAY 2:
+## DAY 2: 
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 **QUESTION** : Given two integers ‘a’ and ‘m’. The task is to find the smallest modular 
@@ -30,3 +30,20 @@ Constraints: <br />
 1 <= m <= 10<sup>4</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_2.py)
+
+
+## DAY 3: First Repeating Element
+https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
+
+**QUESTION** : Given an array of integers, find the first repeating element in it. We need 
+to find the element that occurs more than once and whose index of first occurrence 
+is smallest. If there is no such element, return -1.
+
+Expected Time Complexity: O(NlogN) <br />
+Expected Auxilliary Space: O(N)
+
+Constraints: <br />
+1 <= N <= 10<sup>6</sup> <br />
+0 <= Ai<= 10<sup>6</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_3.py)
