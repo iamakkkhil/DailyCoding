@@ -1,6 +1,6 @@
 # DailyCoding
 
-## DAY 1: Exactly 3 Divisors
+## DAY 1: Exactly 3 Divisors.
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
 **QUESTION** : Given a number N, print all numbers in the range from 1 to N having 
@@ -16,7 +16,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_1.p
 
 
 
-## DAY 2: Modular Multiplicative Inverse
+## DAY 2: Modular Multiplicative Inverse.
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 **QUESTION** : Given two integers ‘a’ and ‘m’. The task is to find the smallest modular 
@@ -34,7 +34,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_2.p
 
 
 
-## DAY 3: First Repeating Element
+## DAY 3: First Repeating Element.
 https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 
 **QUESTION** : Given an array of integers, find the first repeating element in it. We need 
@@ -49,3 +49,20 @@ Constraints: <br />
 0 <= Ai<= 10<sup>6</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_3.py)
+
+
+
+## DAY 4: Rearrange an array with O(1) extra space.
+https://www.geeksforgeeks.org/rearrange-given-array-place/
+
+**QUESTION** : Given an array arr[] of size N where every element is in the range 
+from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]].
+
+Expected Time Complexity: O(N) <br />
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N <= 10<sup>7</sup> <br />
+0 <= Lst[i] < N
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_4.py)
