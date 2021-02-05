@@ -70,17 +70,17 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_4.p
 
 
 ## DAY 5: Trapping rain water
-https://www.geeksforgeeks.org/rearrange-given-array-place/
+https://www.geeksforgeeks.org/trapping-rain-water/
 
-**QUESTION** : Given an array arr[] of size N where every element is in the range 
-from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]].
+**QUESTION** : Given n non-negative integers representing an elevation map where
+the width of each bar is 1, compute how much water it is able to trap after raining.
 
 Expected Time Complexity: O(N) <br />
-Expected Auxilliary Space: O(1)
+Expected Auxilliary Space: O(N)
 
 Constraints: <br />
 1 <= N <= 10<sup>7</sup> <br />
-0 <= Lst[i] < N
+0 <= Ai < 10<sup>8</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_5.py)
 
