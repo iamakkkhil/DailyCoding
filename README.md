@@ -66,3 +66,22 @@ Constraints: <br />
 0 <= Lst[i] < N
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_4.py)
+
+
+
+## DAY 5: Trapping rain water
+https://www.geeksforgeeks.org/rearrange-given-array-place/
+
+**QUESTION** : Given an array arr[] of size N where every element is in the range 
+from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]].
+
+Expected Time Complexity: O(N) <br />
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N <= 10<sup>7</sup> <br />
+0 <= Lst[i] < N
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_5.py)
+
+
