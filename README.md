@@ -46,7 +46,7 @@ Expected Auxilliary Space: O(N)
 
 Constraints: <br />
 1 <= N <= 10<sup>6</sup> <br />
-0 <= Ai <= 10<sup>6</sup>
+0 <= A<sub>i</sub> <= 10<sup>6</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_3.py)
 
@@ -80,7 +80,7 @@ Expected Auxilliary Space: O(N)
 
 Constraints: <br />
 1 <= N <= 10<sup>7</sup> <br />
-0 <= Ai < 10<sup>8</sup>
+0 <= A<sub>i</sub> < 10<sup>8</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_5.py)
 
@@ -97,7 +97,7 @@ Expected Auxilliary Space: O(1)
 
 Constraints: <br />
 1 <= X, Y <= 5*10<sup>4</sup> <br />
-0 <= arr1i, arr2i <= 10<sup>9</sup>
+0 <= arr1<sub>i</sub>, arr2<sub>i</sub> <= 10<sup>9</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_6.py)
 
