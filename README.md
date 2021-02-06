@@ -46,7 +46,7 @@ Expected Auxilliary Space: O(N)
 
 Constraints: <br />
 1 <= N <= 10<sup>6</sup> <br />
-0 <= Ai<= 10<sup>6</sup>
+0 <= Ai <= 10<sup>6</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_3.py)
 
