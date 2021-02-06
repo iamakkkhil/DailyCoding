@@ -69,7 +69,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_4.p
 
 
 
-## DAY 5: Trapping rain water
+## DAY 5: Trapping rain water.
 https://www.geeksforgeeks.org/trapping-rain-water/
 
 **QUESTION** : Given n non-negative integers representing an elevation map where
@@ -83,5 +83,22 @@ Constraints: <br />
 0 <= Ai < 10<sup>8</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_5.py)
+
+
+## DAY 6: Merge two sorted arrays with O(1) extra space.
+https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+
+**QUESTION** : Given two sorted arrays arr1[] and arr2[] of sizes N and M in non-decreasing order. 
+Merge them in sorted order without using any extra space. Modify arr1 so that it contains the first N elements 
+and modify arr2 so that it contains the last M elements.
+
+Expected Time Complexity:  O((n+m) log(n+m)) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= X, Y <= 5*10<sup>4</sup> <br />
+0 <= arr1i, arr2i <= 10<sup>9</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_6.py)
 
 
