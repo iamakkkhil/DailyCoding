@@ -102,3 +102,24 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_6.py)
 
 
+## DAY 7: Search an element in sorted and rotated array.
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+**QUESTION** : Given a sorted and rotated array A of N distinct elements which is rotated at some point, 
+and given an element K. The task is to find the index of the given element K in the array A. If the 
+element is not present, then return -1.
+
+Expected Time Complexity:  O(logN) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= X, Y <= 5*10<sup>4</sup> <br />
+0 <= arr1<sub>i</sub>, arr2<sub>i</sub> <= 10<sup>9</sup>
+
+1 ≤ N ≤ 10<sup>7</sup> <br />
+0 ≤ A<sub>i</sub> ≤ 10<sup>8</sup> <br />
+1 ≤ K ≤ 10<sup>8</sup> <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_7.py)
+
+
