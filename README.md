@@ -120,3 +120,19 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_7.py)
 
 
+## DAY 8: Merge Sort.
+https://www.geeksforgeeks.org/merge-sort/
+
+**QUESTION** : Merge Sort is a Divide and Conquer algorithm. 
+It repeatedly divides the array into two halves and combines them in sorted manner.
+
+Expected Time Complexity: O(N) for the merge function only </br>
+Expected Auxilliary Space: O(N)
+
+Constraints: <br />
+1 ≤ N ≤ 10<sup>5</sup> <br />
+0 ≤ arr[i] ≤ 10<sup>3</sup> <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_8.py)
+
+
