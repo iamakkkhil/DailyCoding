@@ -136,3 +136,21 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_8.py)
 
 
+## DAY 9: Union of Two Sorted Arrays.
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+**QUESTION** : Union of two arrays can be defined as the common and distinct 
+elements in the two arrays.
+Given two sorted arrays of size N and M respectively, find their union.
+
+Expected Time Complexity: O(N+M) </br>
+Expected Auxilliary Space: O(N+M)
+
+Constraints: <br />
+1 ≤ N, M ≤ 10<sup>5</sup> <br />
+0 ≤ arr1[i], arr[2] ≤ 10<sup>6</sup> <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_9.py)
+
+
+
