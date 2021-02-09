@@ -10,8 +10,8 @@ Expected Time Complexity: O(N+M).
 Expected Auxiliary Space: O(N+M).
 
 Constraints:
-1 <= N,M <= 105
-1 <= arr[i], brr[i] <= 106
+1 <= N,M <= 10^5
+1 <= arr1[i], arr2[i] <= 10^6
 
 """
 
