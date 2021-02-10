@@ -153,4 +153,21 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_9.py)
 
 
+## DAY 10: Intersection of Two Sorted Arrays.
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+**QUESTION** : The intersection of two arrays contains the elements common to both the arrays. 
+The intersection should not count duplicate elements.
+Given two sorted arrays arr1[] and arr2[] of sizes N and M respectively. Find their intersection.
+
+Expected Time Complexity: O(N+M) </br>
+Expected Auxilliary Space: O(N+M)
+
+Constraints: <br />
+1 ≤ N, M ≤ 10<sup>5</sup> <br />
+0 ≤ arr1[i], arr[2] ≤ 10<sup>6</sup> <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_10.py)
+
+
 
