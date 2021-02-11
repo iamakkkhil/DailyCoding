@@ -170,4 +170,19 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_10.py)
 
 
+## DAY 1!: Minimum number of swaps required to sort an array.
+https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
+
+**QUESTION** : Given an array of n distinct elements, find the minimum number of swaps required to sort the array.
+
+Expected Time Complexity: O(N+M) </br>
+Expected Auxilliary Space: O(N+M)
+
+Constraints: <br />
+1 ≤ N, M ≤ 10<sup>5</sup> <br />
+0 ≤ arr1[i], arr[2] ≤ 10<sup>6</sup> <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_11.py)
+
+
 
