@@ -1,5 +1,5 @@
 """
-DAY 7: Repeatedly search an element by doubling it after every successful search.
+DAY 12: Repeatedly search an element by doubling it after every successful search.
 https://www.geeksforgeeks.org/repeatedly-search-element-doubling-every-successful-search/
 
 QUESTION : Given an array “a[]” and integer “b”. Find whether b is present in a[] or not. 
