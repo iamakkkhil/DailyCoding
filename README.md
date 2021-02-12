@@ -170,7 +170,7 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_10.py)
 
 
-## DAY 1!: Minimum number of swaps required to sort an array.
+## DAY 11: Minimum number of swaps required to sort an array.
 https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
 
 **QUESTION** : Given an array of n distinct elements, find the minimum number of swaps required to sort the array.
@@ -183,6 +183,17 @@ Constraints: <br />
 0 ≤ arr1[i], arr[2] ≤ 10<sup>6</sup> <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_11.py)
+
+
+## DAY 12: Repeatedly search an element by doubling it after every successful search.
+https://www.geeksforgeeks.org/repeatedly-search-element-doubling-every-successful-search/
+
+**QUESTION** : Given an array “a[]” and integer “b”. Find whether b is present in a[] or not. 
+If present, then double the value of b and search again. We repeat these steps until b is not found. 
+Finally we return value of b.
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_12.py)
+
 
 
 
