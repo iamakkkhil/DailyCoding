@@ -195,5 +195,24 @@ Finally we return value of b.
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_12.py)
 
 
+## DAY 13: Minimum Number of Platforms Required for a Railway/Bus Station.
+https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+
+**QUESTION** :Given arrival and departure times of all trains that reach a railway station, 
+the task is to find the minimum number of platforms required for the railway station so that no train waits. 
+We are given two arrays which represent arrival and departure times of trains that stop.
+
+Expected Time Complexity: O(N log N) </br>
+Expected Auxilliary Space: O(N)
+
+Constraints: <br />
+1 <= N <= 1000  </br>
+1 <= A[i] < D[i] <= 2359   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_12.py)
+
+
+
+
 
 
