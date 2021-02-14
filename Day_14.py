@@ -1,6 +1,6 @@
 """
 DAY 14: Median of Two sorted arrays.
-https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
 
 QUESTION : Given two sorted arrays of sizes N and M respectively. The task is to find 
 the median of the two arrays when they get merged. If there are total even elements, return 
