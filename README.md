@@ -198,7 +198,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_12.
 ## DAY 13: Minimum Number of Platforms Required for a Railway/Bus Station.
 https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
 
-**QUESTION** :Given arrival and departure times of all trains that reach a railway station, 
+**QUESTION** : Given arrival and departure times of all trains that reach a railway station, 
 the task is to find the minimum number of platforms required for the railway station so that no train waits. 
 We are given two arrays which represent arrival and departure times of trains that stop.
 
@@ -209,9 +209,24 @@ Constraints: <br />
 1 <= N <= 1000  </br>
 1 <= A[i] < D[i] <= 2359   </br>
 
-My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_12.py)
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_13.py)
 
 
+## DAY 14: Median of Two sorted arrays.
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+
+**QUESTION** : Given two sorted arrays of sizes N and M respectively. The task is to find 
+the median of the two arrays when they get merged. If there are total even elements, return 
+floor of average of middle two elements.
+
+Expected Time Complexity: O(log(max(m,n))) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N, M <= 10<sup>6</sup>  </br>
+1 <= arr[i], brr[i] <= 10<sup>7</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_14.py)
 
 
 
