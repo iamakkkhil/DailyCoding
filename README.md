@@ -220,13 +220,29 @@ the median of the two arrays when they get merged. If there are total even eleme
 floor of average of middle two elements.
 
 Expected Time Complexity: O(log(max(m,n))) </br>
-Expected Auxilliary Space: O(1)
+Expected Auxilliary Space: O(N)
 
 Constraints: <br />
 1 <= N, M <= 10<sup>6</sup>  </br>
 1 <= arr[i], brr[i] <= 10<sup>7</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_14.py)
+
+
+## DAY 15 : Sort an array of 0s, 1s and 2s.
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+
+**QUESTION** : Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that 
+sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.
+
+Expected Time Complexity: O(N) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N <= 10<sup>5</sup>  </br>
+1 <= A[i] <= 2 </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_15.py)
 
 
 
