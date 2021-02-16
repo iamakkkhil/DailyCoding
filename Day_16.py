@@ -2,8 +2,7 @@
 DAY 16 : Different Operations on Matrices.
 https://www.geeksforgeeks.org/different-operation-matrices/
 
-QUESTION : Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that 
-sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.
+QUESTION : Perform Addititon, Subtraction and Multiplication on given Matrices.
 
 """
 
