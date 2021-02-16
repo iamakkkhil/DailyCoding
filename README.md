@@ -245,5 +245,14 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_15.py)
 
 
+## DAY 16 : Different Operations on Matrices.
+https://www.geeksforgeeks.org/different-operation-matrices/
+
+**QUESTION** : Perform Addititon, Subtraction and Multiplication on given Matrices.
+
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_16.py)
+
+
 
 
