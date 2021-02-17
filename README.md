@@ -263,9 +263,9 @@ elements in the array.
 
 Constraints: <br />
 T <= 100   <br />
-2 <= n <= 10^4   <br />
-1 <= arr[i] <= 10^3   <br />
-1 <= k <= 10^5   <br />
+2 <= n <= 10<sup>4</sup>   <br />
+1 <= arr[i] <= 10<sup>3</sup>   <br />
+1 <= k <= 10<sup>5</sup>   <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_17.py)
 
