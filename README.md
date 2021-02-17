@@ -250,8 +250,28 @@ https://www.geeksforgeeks.org/different-operation-matrices/
 
 **QUESTION** : Perform Addititon, Subtraction and Multiplication on given Matrices.
 
-
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_16.py)
+
+
+## DAY 17 : Minimize the maximum difference of adjacent elements after at most K insertions.
+https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elements-after-at-most-k-insertions/
+
+**QUESTION** : Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that 
+sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.Given an array 
+of N elements, the task is to minimize the maximum difference of adjacent elements by inserting at most K 
+elements in the array.
+
+Constraints: <br />
+T <= 100   <br />
+2 <= n <= 10^4   <br />
+1 <= arr[i] <= 10^3   <br />
+1 <= k <= 10^5   <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_17.py)
+
+
+
+
 
 
 
