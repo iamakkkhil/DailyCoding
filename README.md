@@ -269,32 +269,36 @@ T <= 100   <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_17.py)
 
-***
-## Day 18
-### Problem Statement: Determinant of a matrix
-Given a square matrix of size N x N. The task is to find the determinant of this matrix.
+
+## Day 18: Determinant of a matrix.
 https://www.geeksforgeeks.org/determinant-of-a-matrix/
 
-**Examples:** <br />
-Input: N = 4<br />
-matrix[][] = {{1, 0, 2, -1},<br />
-              {3, 0, 0, 5},<br />
-              {2, 1, 4, -3},<br />
-              {1, 0, 5, 0}}<br />
-Output: 30<br />
-Explanation:
-Determinant of the given matrix is 30. 
+**QUESTION** : Given a square matrix of size N x N. The task is to find the determinant of this matrix.
 
-Input: N = 3<br /> 
-matrix[][] = {{1, 2, 3},<br />
-              {4, 5, 6},<br />
-              {7, 10, 9}}<br />
-Output: 12<br />
-Explanation:
-Determinant of the given matrix is 12.
+Expected Time Complexity:  O(N<sup>4</sup>) </br>
+Expected Auxilliary Space: O(N<sup>2</sup>)
 
-**Solution:** [here]
+Constraints: <br />
+1 <= N <= 8 <br />
+-10 <= mat[i][j] <= 10
 
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_18.py)
+
+
+## DAY 19: Transpose of Matrix.
+https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
+
+**QUESTION** : Write a program to find the transpose of a square matrix of size N*/N. 
+Transpose of a matrix is obtained by changing rows to columns and columns to rows.
+
+Expected Time Complexity:  O(N*/N) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N <= 100 <br />
+-10<sup>3</sup> <= mat[i][j] <= 10<sup>3</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_19.py)
 
 
 
