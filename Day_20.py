@@ -1,6 +1,6 @@
 """
-DAY 20: Rotate by 90 degree.
-https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+DAY 20: Inplace rotate square matrix by 90 degrees.
+https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
 
 QUESTION : Given a square matrix of size N x N. The task is to rotate it by 90 degrees in anti-clockwise 
 direction without using any extra space.
