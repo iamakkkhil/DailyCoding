@@ -317,6 +317,21 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_20.py)
 
 
+## DAY 21: Spirally traversing a matrix.
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+**QUESTION** : Given a matrix of size R*C. Traverse the matrix in spiral form.
+
+Expected Time Complexity:  O(R*C) </br>
+Expected Auxilliary Space: O(R*C)
+
+Constraints: <br />
+1 <= R, C <= 100   <br />
+0 <= matrix<sub>i</sub> <= 100
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_21.py)
+
+
 
 
 
