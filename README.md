@@ -320,7 +320,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_20.
 ## DAY 21: Spirally traversing a matrix.
 https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 
-**QUESTION** : Given a matrix of size R*C. Traverse the matrix in spiral form.
+**QUESTION** : Given a matrix of size R\*C. Traverse the matrix in spiral form.
 
 Expected Time Complexity:  O(R\*C) </br>
 Expected Auxilliary Space: O(R\*C)
@@ -332,7 +332,21 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_21.py)
 
 
+## DAY 22: Search in a row wise and column wise sorted matrix.
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
 
+**QUESTION** : Given a matrix of size n x m, where every row and column is sorted in increasing order, 
+and a number x. Find whether element x is present in the matrix or not.
+
+Expected Time Complexity:  O(N + M) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= N, M <= 1000  <br />
+1 <= mat[][] <= 10<sup>5</sup>  <br />
+1 <= element <= 1000
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_22.py)
 
 
 
