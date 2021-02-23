@@ -349,4 +349,19 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_22.py)
 
 
+## DAY 23: Max rectangle.
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+**QUESTION** : Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix.
+
+Expected Time Complexity:  O(N \* M) </br>
+Expected Auxilliary Space: O(M)
+
+Constraints: <br />
+1 <= n,m <= 1000   <br />
+0 <= M[][] <= 1
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_23.py)
+
+
 
