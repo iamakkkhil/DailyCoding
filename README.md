@@ -399,5 +399,5 @@ Expected Auxilliary Space: O(Number of distinct characters)
 Constraints: <br />
 1 ≤ |s| ≤ 100   <br />
 
-My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_25.py)
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day25.py)
 
