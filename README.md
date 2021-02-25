@@ -389,6 +389,7 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_24.
 
 ## DAY 25: Maximum occuring character
 https://www.geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
+
 **QUESTION** : Given a string str. The task is to find the maximum occurring character in the string str. 
 If more than one character occurs the maximum number of time then print the lexicographically smaller character.
 
