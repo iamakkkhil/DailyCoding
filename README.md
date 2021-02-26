@@ -387,7 +387,7 @@ Constraints: <br />
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_24.py)
 
 
-## DAY 25: Maximum occuring character
+## DAY 25: Maximum occuring character.
 https://www.geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 
 **QUESTION** : Given a string str. The task is to find the maximum occurring character in the string str. 
@@ -400,4 +400,20 @@ Constraints: <br />
 1 ≤ |s| ≤ 100   <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day25.py)
+
+
+## DAY 26: Missing Characters in Panagram.
+https://www.geeksforgeeks.org/missing-characters-make-string-pangram/
+
+**QUESTION** : You are given a string s. You need to find the missing characters in the string to make a panagram.
+Note: The output characters will be lowercase and lexicographically sorted, returns -1 if the string is a panagram, 
+else it returns a string that consists missing characters.
+
+Expected Time Complexity:  O(|S|) </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 ≤ |s| ≤ 10000   <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day26.py)
 
