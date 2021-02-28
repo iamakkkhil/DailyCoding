@@ -438,3 +438,19 @@ Constraints: <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_27.py)
 
+
+## DAY 28: Implement strstr.
+https://www.geeksforgeeks.org/check-string-substring-another/
+
+**QUESTION** : Your task is to implement the function strstr. The function takes two strings as arguments (s,x) 
+and  locates the occurrence of the string x in the string s. The function returns and integer denoting the 
+first occurrence of the string x in s (0 based indexing).
+
+Expected Time Complexity: O(|s|\*|x|). </br>
+Expected Auxilliary Space: O(1)
+
+Constraints: <br />
+1 <= |s|,|x| <= 1000
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_28.py)
+
