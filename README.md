@@ -454,3 +454,22 @@ Constraints: <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_28.py)
 
+
+## DAY 29: Isomorphic Strings.
+https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+
+**QUESTION** : Given two strings 'str1' and 'str2', check if these two strings are isomorphic to each other.
+Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible for every character 
+of str1 to every character of str2 while preserving the order.
+
+Note: All occurrences of every character in ‘str1’ should map to the same character in ‘str2’.
+
+Expected Time Complexity: O(|str1|+|str2|). </br>
+Expected Auxilliary Space: O(Number of different characters).</br>
+Note: |s| represents the length of string s.
+
+Constraints: <br />
+1 <= |str1|, |str2| <= 10<sup>3</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_29.py)
+
