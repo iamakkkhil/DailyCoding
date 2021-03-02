@@ -473,3 +473,16 @@ Constraints: <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_29.py)
 
+
+## DAY 30: Check if strings are rotations of each other or not.
+https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+
+**QUESTION** : Given two strings s1 and s2. The task is to check if s2 is a rotated version of the string s1. The characters in the strings are in lowercase.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxilliary Space: O(N).
+
+Constraints: <br />
+1 <= |str1|, |str2| <= 10<sup>7</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_30.py)
