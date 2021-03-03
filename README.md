@@ -486,3 +486,18 @@ Constraints: <br />
 1 <= |str1|, |str2| <= 10<sup>7</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_30.py)
+
+
+## DAY 31: Longest Substring Without Repeating Characters.
+https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+
+**QUESTION** : Given a string S, find the length of its longest substring that does not have any repeating characters.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxilliary Space: O(1).
+
+Constraints: <br />
+1 <= N <= 10<sup>5</sup>  <br />
+here, N = S.length
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_31.py)
