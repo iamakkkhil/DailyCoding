@@ -501,3 +501,19 @@ Constraints: <br />
 here, N = S.length
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_31.py)
+
+
+
+## DAY 32: Multiply two strings.
+https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
+
+**QUESTION** : Given two numbers as stings s1 and s2. Calculate their Product.
+
+Expected Time Complexity:O(n1 /* n2). </br>
+Expected Auxilliary Space: O(n1 + n2).</br>
+where n1 and n2 are sizes of strings s1 and s2 respectively.
+
+Constraints: <br />
+1 <= length of s1 and s2 <= 10<sup>3</sup>  <br />
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_32.py)
