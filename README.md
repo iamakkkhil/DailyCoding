@@ -517,3 +517,22 @@ Constraints: <br />
 1 <= length of s1 and s2 <= 10<sup>3</sup>  <br />
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_32.py)
+
+
+## DAY 33: Anagram.
+https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+
+**QUESTION** : Given two strings a and b consisting of lowercase characters. The task is to check whether two 
+given strings are an anagram of each other or not. An anagram of a string is another string that contains the 
+same characters, only the order of characters can be different. For example, “act” and “tac” are an anagram of 
+each other.
+
+Expected Time Complexity: O(|a|+|b|). </br>
+Expected Auxiliary Space: O(Number of distinct characters).</br>
+
+Note: |s| represents the length of string s.</br>
+
+Constraints:</br>
+1 ≤ |a|,|b| ≤ 10<sup>5</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_33.py)
