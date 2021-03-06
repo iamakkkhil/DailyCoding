@@ -536,3 +536,25 @@ Constraints:</br>
 1 ≤ |a|,|b| ≤ 10<sup>5</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_33.py)
+
+
+## DAY 34:  Excel Sheet | Part 1.
+https://www.geeksforgeeks.org/find-excel-column-name-given-number/
+
+**QUESTION** : Given a positive integer N, return its corresponding column title as it would appear in an Excel sheet.
+For N =1 we have column A, for 27 we have AA and so on.</br>
+
+Note: The alphabets are all in uppercase.
+
+Expected Time Complexity: O(Log(N)). </br>
+Expected Auxiliary Space: O(Log(N)).</br>
+
+Note: |s| represents the length of string s.</br>
+
+Constraints:</br>
+1 ≤ N ≤ 10<sup>7</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_34.py)
+
+
+
