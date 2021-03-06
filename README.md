@@ -549,8 +549,6 @@ Note: The alphabets are all in uppercase.
 Expected Time Complexity: O(Log(N)). </br>
 Expected Auxiliary Space: O(Log(N)).</br>
 
-Note: |s| represents the length of string s.</br>
-
 Constraints:</br>
 1 ≤ N ≤ 10<sup>7</sup></br>
 
