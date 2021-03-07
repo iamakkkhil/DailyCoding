@@ -555,4 +555,18 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_34.py)
 
 
+## DAY 35: Reverse words in a given string..
+https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+
+**QUESTION** : Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
+
+Expected Time Complexity: O(|S|). </br>
+Expected Auxiliary Space: O(|S|).</br>
+
+Constraints:</br>
+1 <= |S| <= 2000
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_35.py)
+
+
 
