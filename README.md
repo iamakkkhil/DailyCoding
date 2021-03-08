@@ -569,4 +569,18 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_35.py)
 
 
+## DAY 36: Check whether K-th bit is set or not.
+https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/
+
+**QUESTION** : Given a number N and a bit number K, check if Kth bit of N is set or not. A bit is called set if it is 1. Position of set bit '1' should be indexed starting with 0 from LSB side in binary representation of the number.
+
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+1 ≤ N ≤ 10<sup>9</sup> </br>
+0 ≤ K ≤ floor(log2(N) + 1) </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_36.py)
+
 
