@@ -584,3 +584,15 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_36.py)
 
 
+## DAY 37: Power of 2
+https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+
+**QUESTION** : Given a positive integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2x for some x.
+ 
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10^18</br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_37.py)
