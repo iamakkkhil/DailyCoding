@@ -584,7 +584,7 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_36.py)
 
 
-## DAY 37: Power of 2
+## DAY 37: Power of 2.
 https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
 
 **QUESTION** : Given a positive integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2x for some x.
@@ -593,6 +593,22 @@ Expected Time Complexity: O(LogN). </br>
 Expected Auxiliary Space: O(1).</br>
 
 Constraints:</br>
-0 <= N <= 10^18</br>
+0 <= N <= 10<sup>18</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_37.py)
+
+
+## DAY 38: Number is sparse or not.
+https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/
+
+**QUESTION** : Given a number N. The task is to check whether it is sparse or not. A number is said to be a 
+sparse number if no two or more consecutive bits are set in the binary representation.
+
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>6</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_38.py)
+
