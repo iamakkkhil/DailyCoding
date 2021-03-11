@@ -612,3 +612,18 @@ Constraints:</br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_38.py)
 
+
+## DAY 39: Bit Difference.
+https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+
+**QUESTION** : You are given two numbers A and B. The task is to count the number of bits needed to be 
+flipped to convert A to B.
+
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>6</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_39.py)
+
