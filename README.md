@@ -653,3 +653,20 @@ Constraints:</br>
 0 <= N <= 10<sup>9</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_40.py)
+
+
+## DAY 41: Find first set bit.
+https://www.geeksforgeeks.org/position-of-rightmost-set-bit/
+
+**QUESTION** : Given an integer an N. The task is to return the position of first set bit found from the right 
+side in the binary representation of the number.
+
+Note: If there is no set bit in the integer N, then return 0 from the function.  
+
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>8</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_41.py)
