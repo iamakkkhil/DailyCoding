@@ -628,16 +628,28 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_39.py)
 
 
-## DAY 40: Bit Difference.
-https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+## DAY 40: Gray to Binary and Gray to Binary equivalent.
+https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/
 
-**QUESTION** : You are given two numbers A and B. The task is to count the number of bits needed to be 
-flipped to convert A to B.
+**QUESTION** : Given N in Gray code equivalent. Find its binary equivalent. 
+
+Note: We need to find the binary equivalent of the given gray code and return the decimal 
+equivalent of the binary representation.
 
 Expected Time Complexity: O(LogN). </br>
 Expected Auxiliary Space: O(1).</br>
 
 Constraints:</br>
-0 <= N <= 10<sup>6</sup></br>
+0 <= N <= 10<sup>8</sup></br>
+
+
+**QUESTION** : You are given a decimal number N. You need to find the gray code of the number N and convert it 
+into decimal.
+
+Expected Time Complexity: O(1). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>9</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_40.py)
