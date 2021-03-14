@@ -670,3 +670,17 @@ Constraints:</br>
 0 <= N <= 10<sup>8</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_41.py)
+
+
+## DAY 42: Count total set bits in all numbers from 1 to n.
+https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/
+
+**QUESTION** : You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).
+
+Expected Time Complexity: O(LogN). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>8</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_42.py)
