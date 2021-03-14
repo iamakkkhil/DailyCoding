@@ -1,5 +1,5 @@
 """
-DAY 41 : Count total set bits in all numbers from 1 to n.
+DAY 42 : Count total set bits in all numbers from 1 to n.
 https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/
 
 QUESTION : You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).  
@@ -12,7 +12,7 @@ Constraints:
 
 """
 
-def countSetBits(self,n):
+def countSetBits(n):
     
     n += 1
     count = 0
