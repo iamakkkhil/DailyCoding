@@ -684,3 +684,19 @@ Constraints:</br>
 0 <= N <= 10<sup>8</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_42.py)
+
+
+## DAY 43: Count total set bits in all numbers from 1 to n.
+https://www.geeksforgeeks.org/position-rightmost-different-bit/
+
+**QUESTION** : Given two numbers M and N. The task is to find the position of the rightmost different bit 
+in the binary representation of numbers. 
+
+Expected Time Complexity: O(max(log m, log n)). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= M <= 10<sup>9</sup></br>
+0 <= N <= 10<sup>9</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_43.py)
