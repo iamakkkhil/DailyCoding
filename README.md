@@ -718,7 +718,7 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_44.py)
 
 
-## DAY 44: Maximum subset XOR.
+## DAY 45: Maximum subset XOR.
 https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
 
 **QUESTION** : You don't need to read input or print anything. Your task is to complete the function
