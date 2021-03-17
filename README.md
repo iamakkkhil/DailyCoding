@@ -716,3 +716,19 @@ Constraints:</br>
 0 <= arr[i] <= 10<sup>6</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_44.py)
+
+
+## DAY 44: Maximum subset XOR.
+https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
+
+**QUESTION** : You don't need to read input or print anything. Your task is to complete the function
+maxSubarrayXOR() which takes the array and an integer as input and returns the maximum subset XOR value.
+
+Expected Time Complexity: O(N\*Log(max(arr[i]))). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>5</sup></br>
+0 <= arr[i] <= 10<sup>6</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_44.py)
