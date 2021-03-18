@@ -718,17 +718,38 @@ Constraints:</br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_44.py)
 
 
-## DAY 45: Maximum subset XOR.
-https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
+## DAY 45: Swap all odd and even bits.
+https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
 
-**QUESTION** : You don't need to read input or print anything. Your task is to complete the function
-maxSubarrayXOR() which takes the array and an integer as input and returns the maximum subset XOR value.
+**QUESTION** : Given an unsigned integer N. The task is to swap all odd bits with even bits. 
+For example, if the given number is 23 (00010111), it should be converted to 43(00101011). 
+Here, every even position bit is swapped with adjacent bit on the right side(even position 
+bits are highlighted in the binary representation of 23), and every odd position bit is 
+swapped with an adjacent on the left side.
 
-Expected Time Complexity: O(N\*Log(max(arr[i]))). </br>
+Expected Time Complexity: O(1). </br>
 Expected Auxiliary Space: O(1).</br>
 
 Constraints:</br>
-0 <= N <= 10<sup>5</sup></br>
-0 <= arr[i] <= 10<sup>6</sup></br>
+0 <= N <= 10<sup>9</sup></br>
 
-My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_44.py)
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_45.py)
+
+
+
+## DAY 46: Check if two arrays are equal or not.
+https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
+
+**QUESTION** : Given two arrays A and B of equal size N, the task is to find if given arrays are equal or not. 
+Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) 
+of elements may be different though.
+Note : If there are repetitions, then counts of repeated elements must also be same for two array to be equal.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>7</sup></br>
+0 <= A[],B[] <= 10<sup>18</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_46.py)
