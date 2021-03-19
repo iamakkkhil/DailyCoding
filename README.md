@@ -753,3 +753,19 @@ Constraints:</br>
 0 <= A[],B[] <= 10<sup>18</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_46.py)
+
+
+
+## DAY 47: Max distance between same elements.
+https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/
+
+**QUESTION** : Given an array with repeated elements, the task is to find the maximum 
+distance between two occurrences of an element.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>6</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_47.py)
