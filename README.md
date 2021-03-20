@@ -769,3 +769,20 @@ Constraints:</br>
 0 <= N <= 10<sup>6</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_47.py)
+
+
+## DAY 48: Two Sum.
+https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
+**QUESTION** : Given an array of positive integers and an integer. Determine whether or 
+not there exist two elements in A whose sum is exactly equal to that integer.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>5</sup></br>
+1 ≤ A[i] ≤ 10<sup>5</sup></br>
+1 ≤ X ≤ 2\*10<sup>5</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_48.py)
