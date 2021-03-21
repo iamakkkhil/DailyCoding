@@ -786,3 +786,20 @@ Constraints:</br>
 1 ≤ X ≤ 2\*10<sup>5</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_48.py)
+
+
+## DAY 49: Sorting Elements of an Array by Frequency.
+https://www.geeksforgeeks.org/sort-elements-by-frequency/
+
+**QUESTION** : Given an array of integers, sort the array according to frequency of elements. 
+That is elements that have higher frequency come first. If frequencies of two elements are same, 
+then smaller number comes first.
+
+Expected Time Complexity: O(N Log N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>5</sup></br>
+1 ≤ A<sub>i</sub> ≤ 10<sup>5</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_49.py)
