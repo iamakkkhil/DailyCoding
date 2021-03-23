@@ -822,3 +822,19 @@ Constraints:</br>
 1 ≤ Arr<sub>i</sub> ≤ 10<sup>7</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_50.py)
+
+
+## DAY 51: Largest subarray with 0 sum.
+https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+
+**QUESTION** : Given an array having both positive and negative integers. 
+The task is to compute the length of the largest subarray with sum 0.
+
+Expected Time Complexity: O(N\*Log(N)). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>4</sup></br>
+-1000 <= A[i] <= 1000, for each valid i</br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_51.py)
