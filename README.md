@@ -838,3 +838,20 @@ Constraints:</br>
 -1000 <= A[i] <= 1000, for each valid i</br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_51.py)
+
+
+## DAY 52: Top K Frequent Elements in Array - | .
+https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
+
+**QUESTION** : Given a non-empty array of integers, find the top k elements which have the highest 
+frequency in the array. If two numbers have the same frequency then the larger number should be 
+given preference.
+
+Expected Time Complexity: O(N\*Log(N)). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>3</sup></br>
+1 <= A[i] <= 10<sup>4</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_52.py)
