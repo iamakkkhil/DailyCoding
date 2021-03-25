@@ -855,3 +855,22 @@ Constraints:</br>
 1 <= A[i] <= 10<sup>4</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_52.py)
+
+
+## DAY 53: Sort an array according to the other.
+https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
+
+**QUESTION** : Given two integer arrays A1[ ] and A2[ ] of size N and M respectively. Sort the 
+first array A1[ ] such that all the relative positions of the elements in the first array are 
+the same as the elements in the second array A2[ ].</br>
+
+Note: If elements are repeated in the second array, consider their first occurance only. </br>
+
+Expected Time Complexity: O(N\*Log(N)). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N, M <= 10<sup>6</sup></br>
+1 <= A1[i], A2[i] <= 10<sup>6</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_53.py)
