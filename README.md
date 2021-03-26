@@ -874,3 +874,19 @@ Constraints:</br>
 1 <= A1[i], A2[i] <= 10<sup>6</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_53.py)
+
+
+## DAY 54: Zero Sum Subarrays.
+https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+
+**QUESTION** : You are given an array arr[] of size n. Find the total count of sub-arrays 
+having their sum equal to 0.</br>
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+0 <= N <= 10<sup>7</sup></br>
+10<sup>-10</sup> <= arr[i] <= 10<sup>10</sup></br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_54.py)
