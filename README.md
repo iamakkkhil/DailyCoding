@@ -890,3 +890,21 @@ Constraints:</br>
 10<sup>-10</sup> <= arr[i] <= 10<sup>10</sup></br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_54.py)
+
+
+
+## DAY 55: Find All Four Sum Numbers.
+https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
+
+**QUESTION** : Given an array of integers and another number. Find all the unique 
+quadruple from the given array that sums up to the given number.
+
+Expected Time Complexity: O(N<sup>3</sup>). </br>
+Expected Auxiliary Space: O(N<sup>2</sup>).</br>
+
+Constraints:</br>
+1 <= N <= 100</br>
+-1000 <= K <= 1000</br>
+-100 <= A[] <= 100</br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_55.py)
