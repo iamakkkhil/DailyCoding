@@ -924,3 +924,20 @@ Constraints:</br>
 1 <= A[i] <= 10<sup>5</sup> , for each valid i </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_56.py)
+
+
+
+## DAY 57: Count distinct elements in every window.
+https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+
+**QUESTION** : Given an array of integers and a number K. Find the count of distinct 
+elements in every window of size K in the array.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N).</br>
+
+Constraints:</br>
+1 <= N <= K <= 10<sup>5</sup> </br>
+1 <= A[i] <= 10<sup>5</sup> , for each valid i </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_57.py)
