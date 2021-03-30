@@ -939,3 +939,17 @@ Constraints:</br>
 1 <= N <= 100  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_57.py)
+
+
+## DAY 58: Reverse a linked list.
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+
+**QUESTION** : Given a linked list of N nodes. The task is to reverse this list.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+1 <= N <= 100  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_58.py)
