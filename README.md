@@ -927,17 +927,15 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_56.
 
 
 
-## DAY 57: Count distinct elements in every window.
-https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+## DAY 57: Print elememts of a Linkedlist.
 
-**QUESTION** : Given an array of integers and a number K. Find the count of distinct 
-elements in every window of size K in the array.
+**QUESTION** : Print all elements of a Linked List where we take linked list as input and print the 
+linked list in a single line.
 
 Expected Time Complexity: O(N). </br>
-Expected Auxiliary Space: O(N).</br>
+Expected Auxiliary Space: O(1).</br>
 
 Constraints:</br>
-1 <= N <= K <= 10<sup>5</sup> </br>
-1 <= A[i] <= 10<sup>5</sup> , for each valid i </br>
+1 <= N <= 100  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_57.py)
