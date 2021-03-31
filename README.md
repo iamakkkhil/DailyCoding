@@ -953,3 +953,18 @@ Constraints:</br>
 1 <= N <= 100  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_58.py)
+
+
+
+## DAY 59: Occurence of an integer in a Linked List.
+https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/
+
+**QUESTION** : Given a singly linked list and a key, count the number of occurrences of given key in the linked list.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(1).</br>
+
+Constraints:</br>
+1 <= N <= 10<sup>4</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_59.cpp)
