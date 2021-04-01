@@ -968,3 +968,18 @@ Constraints:</br>
 1 <= N <= 10<sup>4</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_59.cpp)
+
+
+## DAY 60: Pairwise swapping
+https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
+
+**QUESTION** : Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:
+0 ≤ N ≤ 10^3</br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_60.cpp)
+
