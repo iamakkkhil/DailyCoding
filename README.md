@@ -978,8 +978,8 @@ https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
 Expected Time Complexity: O(N)</br>
 Expected Auxiliary Space: O(1)
 
-Constraints:
-0 ≤ N ≤ 10^3</br>
+Constraints:  </br>
+1 <= N <= 10<sup>3</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_60.cpp)
 
