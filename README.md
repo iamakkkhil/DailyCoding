@@ -984,4 +984,17 @@ Constraints:  </br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_60.cpp)
 
 
-## DAY 61
+## DAY 61: Add two numbers represented by linked lists.
+https://www.geeksforgeeks.org/sum-of-two-linked-lists/
+
+**QUESTION** : Given two numbers represented by two linked lists of size N and M. The task is 
+to return a sum list. The sum list is a linked list representation of the addition of two 
+input numbers.
+
+Expected Time Complexity: O(N+M)</br>
+Expected Auxiliary Space: O(Max(N,M))
+
+Constraints:  </br>
+1 <= N, M <= 5000  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_61.cpp)
