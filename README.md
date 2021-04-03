@@ -998,3 +998,18 @@ Constraints:  </br>
 1 <= N, M <= 5000  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_61.cpp)
+
+
+## DAY 62: Sorted insert for circular linked list.
+https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/
+
+**QUESTION** : Given a sorted circular linked list, the task is to insert a new node in this circular 
+list so that it remains a sorted circular linked list.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 10<sup>5</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_62.cpp)
