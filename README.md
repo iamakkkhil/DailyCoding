@@ -1013,3 +1013,20 @@ Constraints:  </br>
 1 <= N <= 10<sup>5</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_62.cpp)
+
+
+## DAY 63: Split a Circular Linked List into two halves.
+https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
+
+**QUESTION** : Given a Cirular Linked List of size N, split it into two halves circular lists. 
+If there are odd number of nodes in the given circular linked list then out of the resulting 
+two halved lists, first list should have one node more than the second list. The resultant 
+lists should also be circular lists and not linear lists.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 10<sup>2</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_63.cpp)
