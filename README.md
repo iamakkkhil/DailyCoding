@@ -1030,3 +1030,19 @@ Constraints:  </br>
 1 <= N <= 10<sup>2</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_63.cpp)
+
+
+## DAY 64: Reverse a Linked List in groups of given size. 
+https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+
+**QUESTION** : Given a linked list of size N. The task is to reverse every k 
+nodes (where k is an input to the function) in the linked list.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 10<sup>2</sup>  </br>
+1 <= k <= N  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_64.cpp)
