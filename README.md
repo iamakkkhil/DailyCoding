@@ -1046,3 +1046,20 @@ Constraints:  </br>
 1 <= k <= N  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_64.cpp)
+
+
+
+## DAY 65: Detect Loop in linked list. 
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+
+**QUESTION** : Given a linked list of N nodes. The task is to check if the linked list has 
+a loop. Linked list can contain self loop.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 10<sup>4</sup>  </br>
+1 <= Data on Node <= 10<sup>3</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_65.cpp)
