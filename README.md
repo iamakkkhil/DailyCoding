@@ -1063,3 +1063,19 @@ Constraints:  </br>
 1 <= Data on Node <= 10<sup>3</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_65.cpp)
+
+
+## DAY 66: Intersection Point in Y Shapped Linked Lists.
+https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+
+**QUESTION** : Given two singly linked lists of size N and M, write a program to get the point where 
+two linked lists intersect each other.
+
+Expected Time Complexity: O(N+M)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 ≤ N + M ≤ 2\*10<sup>5</sup> </br>
+-1000 ≤ value ≤ 1000 </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_66.cpp)
