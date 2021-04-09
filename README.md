@@ -1101,3 +1101,19 @@ Constraints:  </br>
 1 <= value <= 1000
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_67.cpp)
+
+
+## DAY 68: Clone a linked list with next and random pointer.
+https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
+
+**QUESTION** : You are given a special linked list with N nodes where each node has a next pointer pointing to its next node. You are also given M random pointers , where you will be given M number of pairs denoting two nodes a and b  i.e. a->arb = b.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 100
+1 <= M <= N
+1 <= a, b <= 100
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_68.cpp)
