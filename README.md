@@ -1133,3 +1133,20 @@ Constraints:  </br>
 1 <= a, b <= 100
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_69.cpp)
+
+
+## DAY 70: Circular Linked List Delete at Position.
+https://www.geeksforgeeks.org/delete-middle-of-linked-list/
+
+**QUESTION** : Given a linked list of size n, you have to delete the node at position pos 
+of the linked list and return the new head. The position of initial node is 1.
+The tail of the circular linked list is connected to the head using next pointer.
+
+Expected Time Complexity: O(N)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+2 <= number of nodes <= 10<sup>3</sup>
+1 <= pos <= n
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_70.cpp)
