@@ -1119,18 +1119,15 @@ Constraints:  </br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_68.cpp)
 
 
-## DAY 69: QuickSort on Singly Linked List.
+## DAY 69: Quick Sort on Linked List.
 https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
 
-**QUESTION** : You are given a special linked list with N nodes where each node has a next pointer pointing to its next node. You are also given M random pointers , where you will be given M number of pairs denoting two nodes a and b  i.e. a->arb = b.
-
-Expected Time Complexity: O(N)</br>
-Expected Auxiliary Space: O(1)
+**QUESTION** : Sort the given Linked List using quicksort. which takes O(n^2) time in worst case 
+and O(nLogn) in average and best cases, otherwise you may get TLE.
 
 Constraints:  </br>
-1 <= N <= 100
-1 <= M <= N
-1 <= a, b <= 100
+1<=T<=100
+1<=N<=200
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_69.cpp)
 
