@@ -1162,3 +1162,21 @@ Constraints:  </br>
 1 <= N <= 200
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_71.cpp)
+
+
+## Day 72: Delete without head pointer.
+https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/
+
+**QUESTION** : You are given a pointer/ reference to the node which is to be deleted from the linked list 
+of N nodes. The task is to delete the node. Pointer/ reference to head node is not given. 
+
+Note: No head reference is given to you. It is guaranteed that the node to be deleted is not a tail 
+node in the linked list.
+
+Expected Time Complexity: O(1)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 10<sup>3</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_72.cpp)
