@@ -1148,4 +1148,17 @@ Constraints:  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_70.cpp)
 
-## Day 71
+
+## Day 71: QuickSort on Doubly Linked List.
+https://www.geeksforgeeks.org/quicksort-for-linked-list/
+
+**QUESTION** : Sort the given doubly linked list of size N using quicksort. Just 
+complete the partition function using the quicksort technique.
+
+Expected Time Complexity: O(NlogN)</br>
+Expected Auxiliary Space: O(1)
+
+Constraints:  </br>
+1 <= N <= 200
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_71.cpp)
