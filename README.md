@@ -1180,3 +1180,16 @@ Constraints:  </br>
 1 <= N <= 10<sup>3</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_72.cpp)
+
+
+## Day 73: Merge Sort for Doubly Linked List.
+https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
+
+**QUESTION** : Given Pointer/Reference to the head of a doubly linked list of N nodes, 
+the task is to Sort the given doubly linked list using Merge Sort in both non-decreasing 
+and non-increasing order. 
+
+Constraints:  </br>
+1 <= N <= 10<sup>5</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_73.cpp)
