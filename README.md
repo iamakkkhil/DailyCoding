@@ -1193,3 +1193,17 @@ Constraints:  </br>
 1 <= N <= 10<sup>5</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_73.cpp)
+
+
+## Day 74: Reverse a string using Stack.
+https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
+
+**QUESTION** : You are given a string S, the task is to reverse the string using stack. 
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space: O(N)
+
+Constraints: </br>
+1 ≤ length of the string ≤ 100 </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_74.cpp)
