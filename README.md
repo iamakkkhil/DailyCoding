@@ -1227,3 +1227,19 @@ Constraints: </br>
 1 ≤ Ai ≤ 10<sup>18</sup> </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_75.cpp)
+
+
+## Day 76: Get minimum element from stack.
+https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
+
+**QUESTION** : You are given N elements and your task is to Implement a Stack in which 
+you can get minimum element in O(1) time.
+
+Expected Time Complexity : O(1) for all the 3 methods.
+Expected Auixilliary Space : O(1) for all the 3 methods.
+
+Constraints: </br>
+1 <= Number of queries <= 100   </br>
+1 <= values of the stack <= 100  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_76.cpp)
