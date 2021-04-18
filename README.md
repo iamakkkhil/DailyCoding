@@ -1243,3 +1243,19 @@ Constraints: </br>
 1 <= values of the stack <= 100  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_76.cpp)
+
+
+## Day 77: Evaluation of Postfix Expression.
+https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/#:~:text=The%20expressions%20written%20in%20postfix,are%20not%20required%20in%20postfix.&text=Following%20is%20algorithm%20for%20evaluation,following%20for%20every%20scanned%20element
+
+**QUESTION** : Given string S representing a postfix expression, the task is to evaluate the 
+expression and find the final value. Operators will only include the basic arithmetic operators 
+like \*, /, + and -.
+
+Expected Time Complexity : O(|S|)
+Expected Auixilliary Space : O(|S|)
+
+Constraints: </br>
+1 ≤ |S| ≤ 10<sup>5</sup>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_77.cpp)
