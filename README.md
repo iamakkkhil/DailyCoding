@@ -1259,3 +1259,5 @@ Constraints: </br>
 1 ≤ |S| ≤ 10<sup>5</sup>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_77.cpp)
+
+## Day 78: Max Rectangle
