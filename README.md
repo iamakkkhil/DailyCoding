@@ -1276,4 +1276,19 @@ Constraints: </br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_78.cpp)
 
 
+## Day 79: Sort a stack.
+https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+
+**QUESTION** : Given a stack, the task is to sort it such that the top of the stack has the greatest element.
+
+Expected Time Complexity : O(N\*N)
+Expected Auixilliary Space : O(N) recursive
+
+Constraints: </br>
+1<=N<=100
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_79.cpp)
+
+
+
 
