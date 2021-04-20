@@ -1260,4 +1260,20 @@ Constraints: </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_77.cpp)
 
+
 ## Day 78: Max Rectangle
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+**QUESTION** : Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix.
+
+Expected Time Complexity : O(R\*C)
+Expected Auixilliary Space : O(C)
+
+Constraints: </br>
+1 <= n,m <= 1000
+0 <= M[][] <= 1
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_78.cpp)
+
+
+
