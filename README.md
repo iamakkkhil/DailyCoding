@@ -1290,5 +1290,17 @@ Constraints: </br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_79.cpp)
 
 
+## Day 80: Max area histogram
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+**QUESTION** : Find the largest rectangular area possible in a given histogram.
 
 
+Expected Time Complxity : O(N)  </br>
+Expected Auxilliary Space : O(N)
+
+Constraints: </br>
+1 <= N <= 10^6 </br>
+1 <= arr[i] <= 10^12
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_80.cpp)
