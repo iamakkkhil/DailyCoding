@@ -1295,7 +1295,6 @@ https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
 
 **QUESTION** : Find the largest rectangular area possible in a given histogram.
 
-
 Expected Time Complxity : O(N)  </br>
 Expected Auxilliary Space : O(N)
 
@@ -1304,3 +1303,22 @@ Constraints: </br>
 1 <= arr[i] <= 10^12
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_80.cpp)
+
+
+## Day 81: Max area histogram
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+**QUESTION** : Given an expression string x. Examine whether the pairs and the orders of 
+“{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
+
+For example, the function should return 'true' for 
+exp = “[()]{}{[()()]()}” and 'false' for exp = “[(])”.
+
+Expected Time Complxity : O(|x|) </br>
+Expected Auxilliary Space : O(|x|) </br>
+
+Constraints: </br>
+1 ≤ |x| ≤ 32000  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_81.cpp)
+
