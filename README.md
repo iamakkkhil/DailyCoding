@@ -1342,3 +1342,22 @@ Constraints: </br>
 1 ≤ C[i] ≤ 10<sup>5</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_83.cpp)
+
+
+## Day 84: Infix to Postfix.
+https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+
+**QUESTION** : Given an infix expression in the form of string str. Convert this infix expression to 
+postfix expression.
+Infix expression: The expression of the form a op b. When an operator is in-between every pair of operands.
+Postfix expression: The expression of the form a b op. When an operator is followed for every pair of operands.
+Note: The order of precedence is: ^ greater than * equals to / greater than + equals to -. 
+
+
+Expected Time Complxity : O(|str|) </br>
+Expected Auxilliary Space : O(|str|) </br>
+
+Constraints: </br>
+1 ≤ |str| ≤ 10<sup>5</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_84.cpp)
