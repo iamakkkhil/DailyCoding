@@ -1323,6 +1323,24 @@ Constraints: </br>
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_81.cpp)
 
 
+## Day 82: Maximum of minimum for every window size.
+https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+
+**QUESTION** : Given an integer array. The task is to find the maximum of the minimum of every window 
+size in the array.
+Note: Window size varies from 1 to the size of the Array.
+
+Expected Time Complxity : O(N)</br>
+Expected Auxilliary Space :  O(N) </br>
+
+Constraints: </br>
+1 <= N <= 10<sup>5</sup> </br>
+1 <= arr[i] <= 10<sup>5</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_82.cpp)
+
+
+
 ## Day 83: Stock span problem.
 https://www.geeksforgeeks.org/the-stock-span-problem/
 
