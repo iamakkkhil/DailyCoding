@@ -1379,3 +1379,18 @@ Constraints: </br>
 1 ≤ |str| ≤ 10<sup>5</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_84.cpp)
+
+
+## Day 85: Generate Binary Numbers.
+https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+
+**QUESTION** : Given a number N. The task is to generate and print all binary numbers with 
+decimal values from 1 to N.
+
+Expected Time Complxity : O(N log2N) </br>
+Expected Auxilliary Space : O(N log2N) </br>
+
+Constraints: </br>
+1 ≤ N ≤ 10<sup>6</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_85.cpp)
