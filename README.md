@@ -1394,3 +1394,17 @@ Constraints: </br>
 1 ≤ N ≤ 10<sup>6</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_85.cpp)
+
+
+## Day 86: Queue Push & Pop.
+
+**QUESTION** : Given an array arr[] of size N, enqueue the elements of the array into a queue 
+and then dequeue them.
+
+Expected Time Complxity : O(N) </br>
+Expected Auxilliary Space : O(N) </br>
+
+Constraints: </br>
+1 <= A<sub>i</sub> <= 10<sup>6</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_86.cpp)
