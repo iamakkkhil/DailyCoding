@@ -1408,3 +1408,19 @@ Constraints: </br>
 1 <= A<sub>i</sub> <= 10<sup>6</sup>  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_86.cpp)
+
+
+
+## Day 87: Queue Push & Pop.
+https://www.geeksforgeeks.org/implement-stack-using-queue/
+
+**QUESTION** : Implement a Stack using two queues q1 and q2.
+
+Expected Time Complxity :  O(1) for push() and O(N) for pop()  </br>
+Expected Auxilliary Space :  O(1) for push() and O(N) for pop()  </br>
+
+Constraints: </br>
+1 <= Number of queries <= 100   </br>
+1 <= values of the stack <= 100   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_87.cpp)
