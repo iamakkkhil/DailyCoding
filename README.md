@@ -1424,3 +1424,17 @@ Constraints: </br>
 1 <= values of the stack <= 100   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_87.cpp)
+
+
+## Day 88: Queue using circular array.
+
+**QUESTION** : Given size of a queue and Q query. The task is to perform operations according to the 
+type of query. Queries can be of following types:
+    1) 1 element: This means push the element into the queue (allowed only when queue is not full).
+    2) 2: This means pop the element at front from the queue (allowed only when queue is not empty).
+
+Constraints: </br>
+1 <= size <= 10<sup>4</sup> </br>
+1 <= Q <= 10<sup>3</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_88.cpp)
