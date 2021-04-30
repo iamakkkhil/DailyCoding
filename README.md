@@ -1444,16 +1444,16 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_88.
 https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
 
 **QUESTION** : Given an integer K and a queue of integers, we need to reverse the order of the first K 
-elements of the queue, leaving the other elements in the same relative order.
+elements of the queue, leaving the other elements in the same relative order. </br>
 
-Only following standard operations are allowed on queue.
-    enqueue(x) : Add an item x to rear of queue
-    dequeue() : Remove an item from front of queue
-    size() : Returns number of elements in queue.
-    front() : Finds front item.
+Only following standard operations are allowed on queue. </br>
+    enqueue(x) : Add an item x to rear of queue </br>
+    dequeue() : Remove an item from front of queue </br>
+    size() : Returns number of elements in queue. </br>
+    front() : Finds front item. </br>
 
-Expected TIme Complexity : O(n)
-Expected Auxilliary Space : O(n)
+Expected TIme Complexity : O(n) </br>
+Expected Auxilliary Space : O(n)  </br>
 
 Constraints: </br>
 1 <= N <= 1000 </br>
