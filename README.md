@@ -1438,3 +1438,25 @@ Constraints: </br>
 1 <= Q <= 10<sup>3</sup> </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_88.cpp)
+
+
+## DAY 89: Reverse First K elements of Queue.
+https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
+
+**QUESTION** : Given an integer K and a queue of integers, we need to reverse the order of the first K 
+elements of the queue, leaving the other elements in the same relative order.
+
+Only following standard operations are allowed on queue.
+    enqueue(x) : Add an item x to rear of queue
+    dequeue() : Remove an item from front of queue
+    size() : Returns number of elements in queue.
+    front() : Finds front item.
+
+Expected TIme Complexity : O(n)
+Expected Auxilliary Space : O(n)
+
+Constraints: </br>
+1 <= N <= 1000 </br>
+1 <= K <= N </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_89.cpp)
