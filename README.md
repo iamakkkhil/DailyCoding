@@ -1460,3 +1460,22 @@ Constraints: </br>
 1 <= K <= N </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_89.cpp)
+
+
+## DAY 90: Queue using two Stacks.
+https://www.geeksforgeeks.org/queue-using-stacks/
+
+**QUESTION** : Implement a Queue using 2 stacks s1 and s2 . </br>
+A Query Q is of 2 Types  </br>
+(i) 1 x (a query of this type means  pushing 'x' into the queue)  </br>
+(ii) 2   (a query of this type means to pop element from queue and print the poped element)  </br>
+
+Expected TIme Complexity : O(1) for push() and O(N) for pop() or O(N) for push() and 
+O(1) for pop() </br>
+Expected Auxilliary Space : O(1)  </br>
+
+Constraints: </br>
+1 <= Q <= 100 </br>
+1 <= x <= 100 </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_90.cpp)
