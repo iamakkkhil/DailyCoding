@@ -1479,3 +1479,21 @@ Constraints: </br>
 1 <= x <= 100 </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_90.cpp)
+
+
+
+## DAY 91: Maximum of all subarrays of size k.
+https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+
+**QUESTION** : Given an array arr[] of size N and an integer K. Find the maximum for each and 
+every contiguous subarray of size K.
+
+Expected TIme Complexity : O(N) </br>
+Expected Auxilliary Space : O(N)  </br>
+
+Constraints: </br>
+1 ≤ N ≤ 10<sup>7</sup>  </br>
+1 ≤ K ≤ N </br>
+0 ≤ arr[i] <= 10<sup>7</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_91.cpp)
