@@ -1497,3 +1497,21 @@ Constraints: </br>
 0 ≤ arr[i] <= 10<sup>7</sup> </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_91.cpp)
+
+
+
+## DAY 92: Minimum steps to reach target by a Knight.
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
+
+**QUESTION** : Given a square chessboard of N x N size, the position of Knight and position of a target is given. 
+We need to find out the minimum steps a Knight will take to reach the target position.
+
+Expected TIme Complexity : O(N) </br>
+Expected Auxilliary Space : O(N)  </br>
+
+Constraints: </br>
+1 ≤ N ≤ 10<sup>7</sup>  </br>
+1 ≤ K ≤ N </br>
+0 ≤ arr[i] <= 10<sup>7</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_92.cpp)
