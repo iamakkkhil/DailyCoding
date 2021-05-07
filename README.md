@@ -1522,3 +1522,6 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_92.
 
 ## DAY 94
 
+
+## DAY 95
+
