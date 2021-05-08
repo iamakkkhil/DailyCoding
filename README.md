@@ -1506,8 +1506,8 @@ https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
 **QUESTION** : Given a square chessboard of N x N size, the position of Knight and position of a target is given. 
 We need to find out the minimum steps a Knight will take to reach the target position.
 
-Expected TIme Complexity : O(N) </br>
-Expected Auxilliary Space : O(N)  </br>
+Expected Time Complexity : O(N<sup>2</sup>) </br>
+Expected Auxilliary Space : O(N<sup>2</sup>)  </br>
 
 Constraints: </br>
 1 ≤ N ≤ 10<sup>7</sup>  </br>
