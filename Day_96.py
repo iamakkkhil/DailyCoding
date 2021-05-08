@@ -34,8 +34,8 @@ def LinkedListLength(head):
         head = head.next.next
             
     if(head == None):
-        print("Even")
-    print("Odd")
+        return "Even"
+    return "Odd"
 
 if __name__=='__main__':
      
@@ -47,5 +47,4 @@ if __name__=='__main__':
     head1 = push(head1, 1)
     head1 = push(head1, 3)
 
-    LinkedListLength(head1)
-          
+    print(LinkedListLength(head1))
