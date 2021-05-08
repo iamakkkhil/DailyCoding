@@ -1534,7 +1534,22 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_93.
 
 
 
-## DAY 94
+## DAY 94: Find perimeter of shapes.
+https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
+
+**QUESTION** : Given a matrix mat[][] of n rows and m columns, consisting of 0’s and 1’s. The 
+task is to complete the function findPerimeter which returns an integer denoting the perimeter 
+of sub-figures consisting of only 1’s in the matrix.
+
+Expected Time Complexity : O(n<sup>2</sup>) </br>
+Expected Auxilliary Space : O(1)  </br>
+
+Constraints: </br>
+1 <= T <= 100  </br>
+1 <= n, m <= 20   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_94.cpp)
+
 
 
 ## DAY 95
