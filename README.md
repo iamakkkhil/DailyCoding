@@ -1577,3 +1577,20 @@ Expected Time Complexity : O(n) </br>
 Expected Auxilliary Space : O(1)  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_96.py)
+
+
+
+## DAY 97: Find the character in first string that is present at minimum index in second string.
+https://www.geeksforgeeks.org/find-character-first-string-present-minimum-index-second-string/
+
+**QUESTION** : Given a string str and another string patt. Find the character in patt that is present 
+at the minimum index in str. If no character of patt is present in str then print ‘No character 
+present’.
+
+Expected Time Complexity : O(max(|str|, |patt|)) </br>
+Expected Auxilliary Space : O(K) where K <= 26 </br>
+
+Constraints:  </br>
+1 ≤ |str|, |patt| ≤ 10<sup>4</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_97.py)
