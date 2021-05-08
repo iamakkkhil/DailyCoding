@@ -1510,14 +1510,28 @@ Expected Time Complexity : O(N<sup>2</sup>) </br>
 Expected Auxilliary Space : O(N<sup>2</sup>)  </br>
 
 Constraints: </br>
-1 ≤ N ≤ 10<sup>7</sup>  </br>
-1 ≤ K ≤ N </br>
-0 ≤ arr[i] <= 10<sup>7</sup> </br>
+1 <= N <= 1000  </br>
+1 <= Knight_pos(X, Y), Targer_pos(X, Y) <= N  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_92.cpp)
 
 
-## DAY 93
+
+## DAY 93: Index of an extra element present in one sorted array.
+https://www.geeksforgeeks.org/find-index-of-an-extra-element-present-in-one-sorted-array/
+
+**QUESTION** : Given two sorted arrays. There is only 1 difference between the arrays. 
+The first array has one element extra added in between. Find the index of the extra element.
+
+Expected Time Complexity : O(log n) </br>
+Expected Auxilliary Space : O(1)  </br>
+
+Constraints: </br>
+1 ≤ N ≤ 10<sup>7</sup>  </br>
+0 ≤ arr[i] <= 10<sup>7</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_93.cpp)
+
 
 
 ## DAY 94
