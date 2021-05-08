@@ -1,92 +1,107 @@
 /*
-Given a square chessboard of N x N size, the position of Knight and position of a target is given. 
-We need to find out the minimum steps a Knight will take to reach the target position.
+DAY 92: Steps by Knight.
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
+
+QUESTION : Given a square chessboard, the initial position of Knight and position of a target. 
+\Find out the minimum steps a Knight will take to reach the target position.
+
+Note:
+The initial and the target position co-ordinates of Knight have been given accoring 
+to 1-base indexing.
+
+Example 1:
+Input:
+    N=6
+    knightPos[ ] = {4, 5}
+    targetPos[ ] = {1, 1}
+Output:
+    3  
+Explanation: 
+    Knight takes 3 step to reach from 
+    (4, 5) to (1, 1):
+    (4, 5) -> (5, 3) -> (3, 2) -> (1, 1).
+
+Expected Time Complexity: O(N^2)
+Expected Auxiliary Space: O(N^2)
+
+Constraints:
+1 <= N <= 1000
+1 <= Knight_pos(X, Y), Targer_pos(X, Y) <= N
 */
 
-// **********************************************************************************************************
-
 #include <bits/stdc++.h>
-using namespace std;
 
-// structure for storing a cell's data
 struct cell {
-	int x, y;
-	int dis;
-	cell() {}
-	cell(int x, int y, int dis)
-		: x(x), y(y), dis(dis)
-	{
-	}
+    int x, y;
+    int dis;
+    cell() {}
+    cell(int x, int y, int dis)
+        : x(x), y(y), dis(dis) 
+    {
+    }
 };
 
-// Utility method returns true if (x, y) lies
-// inside Board
-bool isInside(int x, int y, int N)
+int minStepToReachTarget(int KnightPos[2],int TargetPos[2],int N)
 {
-	if (x >= 1 && x <= N && y >= 1 && y <= N)
-		return true;
-	return false;
+    // Code here
+    int dx[] = {-2, -1, 1, 2, 2, 1, -1, -2};
+    int dy[] = {1, 2, 2, 1, -1, -2, -2, -1};
+    
+    int current_pos[2];
+    int final_pos[2];
+    int distance=0;
+    
+    queue<cell> possible_pos;
+    // Assigning false 
+    vector<vector<bool>>distance_matrix(N, vector<bool>(N, false));
+    
+    
+    // Final Position
+    final_pos[0] = TargetPos[0]-1;
+    final_pos[1] = TargetPos[1]-1;
+    
+    // Starting from Knight Pos;
+    current_pos[0] = KnightPos[0] -1;
+    current_pos[1] = KnightPos[1] -1;
+    
+    possible_pos.push(cell(current_pos[0], current_pos[1], distance));
+    
+    distance_matrix[current_pos[0]][current_pos[1]] = 1;
+    
+    while (!possible_pos.empty()){
+        int current_distance = possible_pos.front().dis;
+        int x = possible_pos.front().x;
+        int y = possible_pos.front().y;
+        
+        possible_pos.pop();
+        
+        for(int i=0; i<8; i++) {
+            int temp_x = x+dx[i];
+            int temp_y = y+dy[i];
+            
+            if (temp_x == final_pos[0] and temp_y == final_pos[1]) {
+                        return current_distance+1;
+            }  
+            
+            if (temp_x >=0 and temp_x < N and temp_y >=0 and temp_y < N) {
+            
+                if (distance_matrix[temp_x][temp_y] == 0) {
+                    possible_pos.push(cell(temp_x, temp_y, current_distance+1));
+                    distance_matrix[temp_x][temp_y] = 1;
+                }
+            }
+        }
+    }
+    return 0;   
 }
 
-// Method returns minimum step
-// to reach target position
-int minStepToReachTarget(
-	int knightPos[], int targetPos[],
-	int N)
-{
-	// x and y direction, where a knight can move
-	int dx[] = { -2, -1, 1, 2, -2, -1, 1, 2 };
-	int dy[] = { -1, -2, -2, -1, 1, 2, 2, 1 };
+int main() {
 
-	// queue for storing states of knight in board
-	queue<cell> q;
+    int Knight_pos[] = {4,5};
+    int Target_pos[] = {1,1};
+    int N = 6;
 
-	// push starting position of knight with 0 distance
-	q.push(cell(knightPos[0], knightPos[1], 0));
+    cout<<minStepToReachTarget(Knight_pos, Target_pos, N);
 
-	cell t;
-	int x, y;
-	bool visit[N + 1][N + 1];
-
-	// make all cell unvisited
-	for (int i = 1; i <= N; i++)
-		for (int j = 1; j <= N; j++)
-			visit[i][j] = false;
-
-	// visit starting state
-	visit[knightPos[0]][knightPos[1]] = true;
-
-	// loop untill we have one element in queue
-	while (!q.empty()) {
-		t = q.front();
-		q.pop();
-
-		// if current cell is equal to target cell,
-		// return its distance
-		if (t.x == targetPos[0] && t.y == targetPos[1])
-			return t.dis;
-
-		// loop for all reachable states
-		for (int i = 0; i < 8; i++) {
-			x = t.x + dx[i];
-			y = t.y + dy[i];
-
-			// If reachable state is not yet visited and
-			// inside board, push that state into queue
-			if (isInside(x, y, N) && !visit[x][y]) {
-				visit[x][y] = true;
-				q.push(cell(x, y, t.dis + 1));
-			}
-		}
-	}
+    return 0;
 }
-
-int main()
-{
-	int N = 30;
-	int knightPos[] = { 1, 1 };
-	int targetPos[] = { 30, 30 };
-	cout << minStepToReachTarget(knightPos, targetPos, N);
-	return 0;
-}
-
