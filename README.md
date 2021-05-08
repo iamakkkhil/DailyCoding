@@ -1552,5 +1552,15 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_94.
 
 
 
-## DAY 95
+## DAY 95: Count pairs from two linked lists whose sum is equal to a given value.
+https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
 
+**QUESTION** : Given two linked lists(can be sorted or unsorted) of size n1 and n2 of 
+distinct elements. Given a value x. The problem is to count all pairs from both lists 
+whose sum is equal to the given value x. </br>
+Note: The pair has an element from each linked list.  </br>
+
+Expected Time Complexity : O(n1 + n2) </br>
+Expected Auxilliary Space : O(1)  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_95.py)
