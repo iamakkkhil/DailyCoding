@@ -1564,3 +1564,16 @@ Expected Time Complexity : O(n1 + n2) </br>
 Expected Auxilliary Space : O(1)  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_95.py)
+
+
+
+## DAY 96: Check whether the length of given linked list is Even or Odd.
+https://www.geeksforgeeks.org/check-whether-the-length-of-given-linked-list-is-even-or-odd/
+
+**QUESTION** : Given a linked list, task is to make a function which check whether the length of 
+linked list is even or odd.
+
+Expected Time Complexity : O(n) </br>
+Expected Auxilliary Space : O(1)  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_96.py)
