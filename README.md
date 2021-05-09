@@ -1594,3 +1594,22 @@ Constraints:  </br>
 1 ≤ |str|, |patt| ≤ 10<sup>4</sup> </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_97.py)
+
+
+
+## DAY 98: Count Leaves in Binary Tree.
+https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+
+**QUESTION** : Given a Binary Tree of size N , You have to count leaves in it. For example, there are 
+two leaves in following tree </br>
+</br>
+        1 </br>
+     /      \
+   10      39 </br>
+  /
+5 </br>
+
+Constraints:  </br>
+1<= N <= 10<sup>4</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_98.cpp)
