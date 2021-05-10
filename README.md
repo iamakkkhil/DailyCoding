@@ -1613,3 +1613,6 @@ Constraints:  </br>
 1<= N <= 10<sup>4</sup> </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_98.cpp)
+
+## Day 99
+
