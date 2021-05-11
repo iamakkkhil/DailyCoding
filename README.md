@@ -1614,18 +1614,22 @@ Constraints:  </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_98.cpp)
 
-## Day 99
+
+
+## Day 99: Right View of Binary Tree.
 https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
 
-**QUESTION** : Given a Binary Tree, print Right view of it. 
-Right view of a Binary Tree is set of nodes visible when tree is visited from Right side.</br>
+**QUESTION** : Given a Binary Tree, find Right view of it. Right view of a Binary Tree is set of nodes 
+visible when tree is viewed from right side.
 
+Expected Time Complexity: O(N).
+Expected Auxiliary Space: O(Height of the Tree).
 
-Constraints: </br>
-1 <= Number of nodes <= 10<sup>5</sup></br>
-1 <= Data of a node <= 10<sup>5</sup></br>
+Constraints:
+1 <= Number of nodes <= 10<sup>5</sup>
+1 <= Data of a node <= 10<sup>5</sup>
 
-My Solution 
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_99.cpp)
 
 
 
