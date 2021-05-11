@@ -1622,12 +1622,12 @@ https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
 **QUESTION** : Given a Binary Tree, find Right view of it. Right view of a Binary Tree is set of nodes 
 visible when tree is viewed from right side.
 
-Expected Time Complexity: O(N).
-Expected Auxiliary Space: O(Height of the Tree).
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(Height of the Tree). </br>
 
-Constraints:
-1 <= Number of nodes <= 10<sup>5</sup>
-1 <= Data of a node <= 10<sup>5</sup>
+Constraints:   </br>
+1 <= Number of nodes <= 10<sup>5</sup>  </br>
+1 <= Data of a node <= 10<sup>5</sup>   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_99.cpp)
 
