@@ -1633,4 +1633,17 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_99.
 
 
 
+## Day 100: Two Mirror Trees.
+https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
 
+**QUESTION** : Given a Two Binary Trees, write a function that returns true 
+if one is mirror of other, else returns false.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(Height of the Tree). </br>
+
+Constraints:   </br>
+1 <= Number of nodes<= 10000  </br>
+-1000 <= Data of a node<= 1000   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_100.cpp)
