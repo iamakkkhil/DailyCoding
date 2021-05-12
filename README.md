@@ -1647,3 +1647,21 @@ Constraints:   </br>
 -1000 <= Data of a node<= 1000   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_100.cpp)
+
+
+
+## Day 101:  Diameter of Binary Tree.
+https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+
+**QUESTION** : Given a Binary Tree, find diameter of it.
+The diameter of a tree is the number of nodes on the longest path 
+between two end nodes in the tree.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(Height of the Tree). </br>
+
+Constraints:   </br>
+1 <= Number of nodes<= 10000  </br>
+1 <= Data of a node<= 1000   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_101.cpp)
