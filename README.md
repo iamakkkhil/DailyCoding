@@ -1668,18 +1668,19 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_101
 
 
 
-## Day 102:  Diameter of Binary Tree.
-https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+## Day 102: Sum Tree .
+https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
 
-**QUESTION** : Given a Binary Tree, find diameter of it.
-The diameter of a tree is the number of nodes on the longest path 
-between two end nodes in the tree.
+**QUESTION** : Given a Binary Tree. Check whether it is a Sum Tree or not.
+A Binary Tree is a Sum Tree in which value of each node x is equal to sum 
+of nodes present in its left subtree and right subtree . An empty tree is 
+also a Sum Tree as sum of an empty tree can be considered to be 0. A leaf 
+node is also considered as a Sum Tree.
 
 Expected Time Complexity: O(N). </br>
 Expected Auxiliary Space: O(Height of the Tree). </br>
 
 Constraints:   </br>
-1 <= Number of nodes<= 10000  </br>
-1 <= Data of a node<= 1000   </br>
+1 ≤ number of nodes ≤ 10<sup>4</sup>   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_102.cpp)
