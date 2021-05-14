@@ -1684,3 +1684,19 @@ Constraints:   </br>
 1 ≤ number of nodes ≤ 10<sup>4</sup>   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_102.cpp)
+
+
+
+## Day 103: ZigZag Tree Traversal.
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+
+**QUESTION** : Given a Binary Tree. Find the Zig-Zag Level Order Traversal of 
+the Binary Tree.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N). </br>
+
+Constraints:   </br>
+1 ≤ number of nodes ≤ 10<sup>4</sup>   </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_103.cpp)
