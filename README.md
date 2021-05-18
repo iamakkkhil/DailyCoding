@@ -1705,3 +1705,4 @@ My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_103
 
 ## Day 105
 
+## Day 106
