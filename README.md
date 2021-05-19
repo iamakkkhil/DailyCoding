@@ -1701,8 +1701,72 @@ Constraints:   </br>
 
 My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_103.cpp)
 
-## Day 104
+
+
+## Day 104: Level Order Traversal.
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+
+**QUESTION** : Complete the function to find spiral order traversal of a tree.
+
+Expected Time Complexity: O(N). </br>
+Expected Auxiliary Space: O(N). </br>
+
+Constraints: </br>
+0 <= Number of nodes <= 10<sup>5</sup> </br>
+0 <= Data of a node <= 10<sup>5</sup>  </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_104.cpp)
+
+
 
 ## Day 105
 
-## Day 106
+
+
+## Day 106: Determine if Two Trees are Identical .
+https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/
+
+**QUESTION** : Given two binary trees, the task is to find if both of them are identical or not. 
+
+Expected Time Complexity: O(N) </br>
+Expected Auxiliary Space: O(height of tree)  </br>
+
+Constraints:
+1 <= Number of nodes <= 10<sup>5</sup> </br>
+1 <= Data of a node <= 10<sup>5</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_106.cpp)
+
+
+
+## Day 107: Root to leaf path sum.
+https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+**QUESTION** : Given a binary tree and an integer S, check whether there is root 
+to leaf path with its sum as S.
+
+Expected Time Complexity: O(N) </br>
+Expected Auxiliary Space: O(height of tree)  </br>
+
+Constraints:
+1 ≤ N ≤ 10<sup>4</sup> </br>
+1 ≤ S ≤ 10<sup>6</sup> </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_107.cpp)
+
+
+
+## Day 108: Vertical sum.
+https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+
+**QUESTION** : Given a Binary Tree, find vertical sum of the nodes that are in same vertical line. 
+Print all sums through different vertical lines starting from left-most vertical line to 
+right-most vertical line.
+
+Expected Time Complexity: O(N) </br>
+Expected Auxiliary Space: O(N)  </br>
+
+Constraints:
+1 <= Number of nodes <= 1000 </br>
+
+My Solution [here](https://github.com/iamakkkhil/DailyCoding/blob/master/Day_108.cpp)
